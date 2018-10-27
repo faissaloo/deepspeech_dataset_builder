@@ -1,0 +1,3 @@
+[submodule "livespeech"]
+	path = livespeech
+	url = ssh://git@github.com:faissaloo/livespeech.git

@@ -1,0 +1,31 @@
+yes
+no
+cancel
+pascal
+snake
+underscore
+escape brace
+escape none
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+line
+line zero
+line one two
+line two three
+change brace to none
+brock
+end brock
+byte
+bytes
+amp
+escape brock
+escape escape
+escape
